@@ -1,0 +1,15 @@
+body {
+    background-image: url("https://img.freepik.com/free-photo/portrait-astronaut-space-suit-doing-common-activity-outdoors_23-2151263746.jpg?t=st=1726134541~exp=1726138141~hmac=ef92c2745ff54c243823d638e12f0f865e3bc1bad6ef53700da219107864aa9c&w=1380");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  h1 {
+    text-align: center;
+    color: white;
+  }
+  button {
+    background-color: blue;
+    color: white;
+    display: block;
+    margin: auto;
+  }
